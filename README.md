@@ -1,2 +1,2 @@
-# table-analysis
+# Table Analysis
 Some filtering in Excel tables
